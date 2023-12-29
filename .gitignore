@@ -1,0 +1,14 @@
+# node_modules
+node_modules/
+
+# npm-debug.log files
+npm-debug.log
+
+# Visual Studio Code settings
+.vscode/
+
+# file or directory with the name "config"
+config/
+
+# log files
+*.log
